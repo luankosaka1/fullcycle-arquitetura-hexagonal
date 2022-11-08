@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	"github.com/luankosaka1/fullcycle-arquitetura-hexagonal/application"
+	uuid "github.com/satori/go.uuid"
 	"github.com/stretchr/testify/require"
 )
 
